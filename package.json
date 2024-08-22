@@ -1,0 +1,26 @@
+{
+	"name": "bus_schedule",
+	"version": "0.0.1",
+	"description": "Онлайн расписание автобусов",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/IrynaS1/bus_schedule.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/IrynaS1/bus_schedule/issues"
+	},
+	"type": "module",
+	"homepage": "https://github.com/IrynaS1/bus_schedule#readme",
+	"dependencies": {
+		"express": "^4.19.2",
+		"luxon": "^3.5.0"
+	}
+}
